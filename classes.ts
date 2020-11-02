@@ -12,4 +12,4 @@ class Greeter {
 
 let greeter = new Greeter("world");
 
-greeter.greet();
+console.log(greeter.greet());
